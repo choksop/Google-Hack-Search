@@ -1,6 +1,6 @@
 print3m.github.io/blog/*
 www.zscaler.com/blogs/*
-specterops.io/blog/category/blog/*
+specterops.io/blog/*
 trustedsec.com/blog/*
 www.praetorian.com/blog/*
 syntax-err0r.github.io/*
