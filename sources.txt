@@ -233,3 +233,10 @@ blog.doyensec.com/*
 gynvael.coldwind.pl/*
 j00ru.vexillium.org/*
 blog.compass-security.com/*
+www.gtworek.com/*
+mrexodia.github.io/*
+r0bit.io/posts/*
+shells.systems/*
+cymulate.com/blog/*
+portal.magicsword.io/blog/*
+www.thedfirspot.com/post/*
