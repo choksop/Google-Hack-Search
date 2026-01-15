@@ -240,3 +240,4 @@ shells.systems/*
 cymulate.com/blog/*
 portal.magicsword.io/blog/*
 www.thedfirspot.com/post/*
+www.msreverseengineering.com/blog/*
